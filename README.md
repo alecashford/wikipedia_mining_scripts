@@ -1,0 +1,1 @@
+This repo contains some python scripts to scrape media and data from Wikipedia. Content is mostly being used in some side projects of mine, including the line of Chrome extensions 'New Tab? Flag!' (https://chrome.google.com/webstore/detail/new-tab-flag/lagcgenebmlhjhclaoakigmljeipmamg).
